@@ -1,0 +1,14 @@
+{
+  "name": "import-meta-resolve-luxon",
+  "version": "1.0.0",
+  "description": "A reproduction repo for resolving luxon with import.meta.resolve",
+  "type": "module",
+  "main": "index.js",
+  "author": "Owen Buckley <owen@thegreenhouse.io",
+  "scripts": {
+    "build": "node ."
+  },
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}
